@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.body{
+    font-family: "Josefin Sans", sans-serif;
+}
+  
+.cabecalho{
+    background-color: #B81111;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem{
+    width: 20;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.saopaulo-imagem{
+    width: 20%;
+}
+
+.saopaulo{
+
+    background-image: linear-gradient(#B81111,#4A0909 );
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.saopaulo-div-conteudo{
+    width: 35%;
+}
+.saopaulo-titulo{
+    padding: 24px 0;
+}
