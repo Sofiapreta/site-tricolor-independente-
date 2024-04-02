@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+.body {
+    font-family: "Playfair Display", serif;
+  
+}
+  
 .cabecalho{
     background-color: #B81111;
     color: white;
@@ -41,3 +46,7 @@
 .saopaulo-titulo{
     padding: 24px 0;
 }
+
+.jogadores-imagem{
+    width: 180px;
+} 
